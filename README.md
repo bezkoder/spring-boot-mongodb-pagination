@@ -11,6 +11,8 @@ More practice:
 Front-end that works well with this Back-end:
 > [React Pagination with API using Material-UI](https://bezkoder.com/react-pagination-material-ui/)
 
+> [React Table Pagination with react-table 7](https://bezkoder.com/react-table-pagination-server-side/)
+
 > [Angular 8 Pagination example | ngx-pagination](https://bezkoder.com/ngx-pagination-angular-8/)
 
 > [Angular 10 Pagination example | ngx-pagination](https://bezkoder.com/angular-10-pagination-ngx/)
@@ -30,6 +32,8 @@ More Practice:
 
 > [Deploy Spring Boot App on AWS – Elastic Beanstalk](https://bezkoder.com/deploy-spring-boot-aws-eb/)
 
+> [Spring Boot, MongoDB: JWT Authentication with Spring Security](https://bezkoder.com/spring-boot-jwt-auth-mongodb/)
+
 Fullstack:
 > [Vue.js + Spring Boot + MongoDB example](https://bezkoder.com/spring-boot-vue-mongodb/)
 
@@ -40,6 +44,13 @@ Fullstack:
 > [Angular 11 + Spring Boot + MongoDB example](https://bezkoder.com/angular-11-spring-boot-mongodb/)
 
 > [React + Spring Boot + MongoDB example](https://bezkoder.com/react-spring-boot-mongodb/)
+
+Run both Back-end & Front-end in one place:
+> [Integrate Angular with Spring Boot Rest API](https://bezkoder.com/integrate-angular-spring-boot/)
+
+> [Integrate React.js with Spring Boot Rest API](https://bezkoder.com/integrate-reactjs-spring-boot/)
+
+> [Integrate Vue.js with Spring Boot Rest API](https://bezkoder.com/integrate-vue-spring-boot/)
 
 ## Run Spring Boot application
 ```
